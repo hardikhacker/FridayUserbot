@@ -1,6 +1,5 @@
 pyrogram
 filesplit
-google-trans-new
 wget>=3.2
 CairoSVG>=2.5.2
 faker>=6.6.2
@@ -22,11 +21,9 @@ psutil>=5.8.0
 python-dotenv>=0.15.0
 pymediainfo>=5.0.3
 motor>=2.3.1
-youtube-search-python==1.4.6
 dnspython>=2.1.0
 Markdown>=3.3.4
 gTTS>=2.2.2
-youtube-search>=2.1.0
 ffmpeg-python>=0.2.0
 wheel>=0.36.2
 anime_downloader>=5.0.7
