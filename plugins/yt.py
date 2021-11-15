@@ -11,7 +11,7 @@ import os
 import time
 import requests
 import wget
-from youtube_dl import YoutubeDL
+from yt-dlp import YoutubeDL
 from youtubesearchpython import SearchVideos
 from main_startup.core.decorators import friday_on_cmd
 from main_startup.helper_func.assistant_helpers import _dl
